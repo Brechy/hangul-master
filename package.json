@@ -47,7 +47,7 @@
 		"semantic-ui-react": "^0.84.0",
 		"sinon": "^7.2.2",
 		"sweetalert": "^2.1.0",
-		"validator": "^10.8.0",
+		"validator": "^13.7.0",
 		"yarn": "^1.9.4"
 	}
 }
